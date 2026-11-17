@@ -47,10 +47,6 @@ Getting Started
 3. Build the solution.
 4. Run the application using F5.
 
-Repository
-
-https://github.com/MazenLabs360/calculator
-
 ---
 
 Made with C# and Windows Forms.
